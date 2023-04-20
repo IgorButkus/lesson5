@@ -1,0 +1,4 @@
+# Created by cloud-init v. 23.1.1-0ubuntu0~22.04.1 on Thu, 20 Apr 2023 13:23:25 +0000
+
+# User rules for rownj
+rownj ALL=(ALL) NOPASSWD:ALL
